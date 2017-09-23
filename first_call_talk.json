@@ -2,7 +2,7 @@
     {
         "action": "talk",
         "voiceName": "Geraint",
-	"loop": "Yes",
+	"loop": "1",
         "text": "Hello Connor, Are you aware you may be owed PPE from any of your recent loans. There is a deadline for claiming your missold PPE back. You must claim now or risk missing out!"
     }
 ]
