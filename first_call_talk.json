@@ -1,7 +1,7 @@
 [
     {
         "action": "talk",
-        "voiceName": "Russel",
+        "voiceName": "Russell",
         "text": "Hello Connor, You are listening to a text-to-speech Call made with Nexmo's Voice API. Still working on the AWS HTTP server."
     }
 ]
