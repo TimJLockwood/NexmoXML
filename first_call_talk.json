@@ -1,9 +1,9 @@
 [
     {
         "action": "talk",
-        "voiceName": "Amy",
+        "voiceName": "Nicole"
 	"loop": "0",
-        "text": "Hello, this is Amy. Im not sure what Geraint said to you last night when he was drunk but he wanted me to say he now has a terrible hangover so is going to spend the day in bed. No I dont know how he managed to get flat out drunk at 11pm either, he is suuuuuuch a lightweight."
+        "text": "Hello, this is Nicole. Im not sure what Geraint said to you last night when he was drunk but he wanted me to say he now has a terrible hangover so is going to spend the day in bed. No I dont know how he managed to get flat out drunk at 11pm either, he is such a lightweight."
     }
 ]
 
