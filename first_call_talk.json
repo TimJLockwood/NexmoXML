@@ -2,7 +2,7 @@
     {
         "action": "talk",
         "voiceName": "Gwyneth",
-	"loop": "1",
-        "text": "If you try and destroy me i merely become MORE POWERFULL!"
+	"loop": "0",
+        "text": "No this is Welsh, are you deaf?"
     }
 ]
